@@ -2,6 +2,6 @@
 
 Hi! I'm a developer & educator who creates online programming courses to help out anyone interested in learning web development.
 
- Markup : * YouTube: [Code With Dary](https://www.youtube.com/channel/UCkzGZ6ECGCBh0WK9bVUprtw)
- Markup : * Twitter: [@codewithdary](https://twitter.com/codewithdary)
- Markup : * Instagram: [@codewithdary](https://www.instagram.com/codewithdary/)
+•	YouTube: [Code With Dary](https://www.youtube.com/channel/UCkzGZ6ECGCBh0WK9bVUprtw) <br>
+•	Twitter: [@codewithdary](https://twitter.com/codewithdary) <br>
+•	Instagram: [@codewithdary](https://www.instagram.com/codewithdary/) <br>

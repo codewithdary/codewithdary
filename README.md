@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+
+
+
+
+
+
+![github-thumbnail](https://user-images.githubusercontent.com/63154066/126401199-ebeb2f42-30fc-4887-9871-69a7ea8cfa48.png)
+
 <!--
 **codewithdary/codewithdary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

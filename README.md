@@ -3,6 +3,7 @@
 Hi! I'm a developer & educator who creates online programming courses to help out anyone interested in learning web development.
 
 •	YouTube: [Code With Dary](https://www.youtube.com/channel/UCkzGZ6ECGCBh0WK9bVUprtw) <br>
-•	Twitter: [@codewithdary](https://twitter.com/codewithdary) <br>
 •	Instagram: [@codewithdary](https://www.instagram.com/codewithdary/) <br>
-•	Contact: info@darynazar.com
+•	Twitter: [@codewithdary](https://twitter.com/codewithdary) <br>
+•	Patreon: [@codewithdary](https://www.patreon.com/user?u=30307830) <br>
+•	Gear: [@codewithdary](https://kit.co/codewithdary) <br>

@@ -6,4 +6,3 @@ Hi! I'm a developer & educator who creates online programming courses to help ou
 •	Instagram: [@codewithdary](https://www.instagram.com/codewithdary/) <br>
 •	Twitter: [@codewithdary](https://twitter.com/codewithdary) <br>
 •	Patreon: [@codewithdary](https://www.patreon.com/user?u=30307830) <br>
-•	Gear: [@codewithdary](https://kit.co/codewithdary) <br>

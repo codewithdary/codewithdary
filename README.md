@@ -2,7 +2,11 @@
 
 Hi! I'm a developer & educator who creates online programming courses to help out anyone interested in learning web development.
 
-•	YouTube: [Code With Dary](https://www.youtube.com/channel/UCkzGZ6ECGCBh0WK9bVUprtw) <br>
-•	Instagram: [@codewithdary](https://www.instagram.com/codewithdary/) <br>
-•	Twitter: [@codewithdary](https://twitter.com/codewithdary) <br>
-•	Patreon: [@codewithdary](https://www.patreon.com/user?u=30307830) <br>
+<ul>
+  <li>YouTube: [Blog](https://blog.codewithdary.com/) </li>
+  <li>Newsletter: [Code With Dary](https://newsletter.codewithdary.com/) </li>
+  <li>YouTube: [Code With Dary](https://www.youtube.com/channel/UCkzGZ6ECGCBh0WK9bVUprtw) </li>
+  <li>Instagram: [@codewithdary](https://www.instagram.com/codewithdary/) </li>
+  <li>Twitter: [@codewithdary](https://twitter.com/codewithdary)</li>
+  <li>Patreon: [@codewithdary](https://www.patreon.com/user?u=30307830)</li>
+</ul>
